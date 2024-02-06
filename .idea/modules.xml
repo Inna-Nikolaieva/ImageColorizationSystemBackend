@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ImageColorizationSystemBackend.iml" filepath="$PROJECT_DIR$/.idea/ImageColorizationSystemBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImageColorizationSystemFrontend/.idea/ImageColorizationSystemFrontend.iml" filepath="$PROJECT_DIR$/../ImageColorizationSystemFrontend/.idea/ImageColorizationSystemFrontend.iml" />
+    </modules>
+  </component>
+</project>
