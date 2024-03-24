@@ -4,3 +4,6 @@ sqlalchemy~=2.0.25
 passlib~=1.7.4
 bcrypt
 pydantic~=2.5.3
+python-jose[cryptography]
+python-multipart
+aiofiles
